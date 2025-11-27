@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+#square {
+  margin: 30px auto;
+  background-color: #32cd32;
+  width: 150px;
+  height: 150px;
+  transition: width 0.2s ease, height 0.2s ease, background-color 0.2s ease;
+}
