@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Square Web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🟩 Carré interactif</h1>
+
+  <div class="controls">
+    <label for="size">Taille : <span id="sizeValue">150</span> px</label>
+    <input type="range" id="size" min="50" max="300" value="150">
+
+    <label for="color">Couleur :</label>
+    <input type="color" id="color" value="#32cd32">
+  </div>
+
+  <div id="square"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
