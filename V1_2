@@ -1,0 +1,20 @@
+✅ Améliorations possibles
+1. Séparation des fichiers
+
+index.html, style.css, script.js.
+
+2. Ajouter un label dynamique
+
+Affiche la taille actuelle du carré (ex : “Taille : 180 px”).
+
+3. Ajouter une transition visuelle
+
+Rendre le changement de taille plus fluide avec transition.
+
+4. Meilleure accessibilité
+
+Ajouter aria-label sur le slider, ou un <label> associé.
+
+5. Ajouter un choix de couleur
+
+Ex : un input color pour changer la couleur du carré.
